@@ -1,0 +1,4 @@
+%{
+  "base58": {:git, "https://github.com/safari12/base58.git", "8cc6ed947389ad43c01cf802763d95e9178ab823", [tag: "1.0.0"]},
+  "scrypto": {:git, "https://github.com/safari12/scrypto.git", "142fac656cbede75af99af68c7fa99086774e51a", []},
+}
